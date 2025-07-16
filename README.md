@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Adithya-Holla&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adithya%20V%20Holla-blue?logo=linkedin)](https://www.linkedin.com/in/adiholla/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-HollaAI-green?logo=google-chrome)](https://hollai.onrender.com)
-[![Resume](https://img.shields.io/badge/Resume-AdithyaVHolla-orange)]([https://chat.openai.com/share/file-XGrbCsjKWfcgHFHqCp91Qj](https://www.dropbox.com/scl/fi/vxdbzi0t04z9q2b8hbnvy/Resume4.pdf?rlkey=t2smijuy85eitv51olo8j6qg7&st=wg8ozz62&dl=0)
+[![Resume](https://img.shields.io/badge/Resume-AdithyaVHolla-orange)](https://www.dropbox.com/scl/fi/vxdbzi0t04z9q2b8hbnvy/Resume4.pdf?rlkey=t2smijuy85eitv51olo8j6qg7&st=wg8ozz62&dl=0)
 [![Gmail](https://img.shields.io/badge/Email-adithyavholla23%40gmail.com-red?logo=gmail)](mailto:adithyavholla23@gmail.com)
 
 <p align="center">
