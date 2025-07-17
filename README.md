@@ -99,8 +99,9 @@ My goal is to become a versatile software engineer or AI specialist, contributin
 
 ![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya-Holla&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-Holla&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithya-Holla&theme=tokyo-night)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/adithyavholla23?theme=nord)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithya-Holla&theme=tokyo-night)
+
 
 ---
 
