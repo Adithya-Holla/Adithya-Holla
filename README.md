@@ -8,24 +8,12 @@
 [![Resume](https://img.shields.io/badge/Resume-AdithyaVHolla-orange)](https://www.dropbox.com/scl/fi/vxdbzi0t04z9q2b8hbnvy/Resume4.pdf?rlkey=t2smijuy85eitv51olo8j6qg7&st=wg8ozz62&dl=0)
 [![Gmail](https://img.shields.io/badge/Email-adithyavholla23%40gmail.com-red?logo=gmail)](mailto:adithyavholla23@gmail.com)
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/f3/aa/06f3aadfba3c4bba2e986463f1e5500c.gif" width="250" alt="Coder Cartoon">
-</p>
-
 ---
 
 ## 🛠️ Skills
 
 **Languages & Tools**
 `Python` · `C++` · `SQL` · `HTML` · `CSS` · `JavaScript` · `React.js` · `Git & GitHub`
-
----
-
-**Domains of Interest**
-
-* Machine Learning · Supervised & Unsupervised Algorithms
-* Full Stack Web Development
-* Data Analysis · Visualization, Feature Engineering, Model Evaluation
 
 ---
 
