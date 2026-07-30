@@ -49,7 +49,8 @@ My goal is to become a versatile software engineer or AI specialist, contributin
   
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adithya-Holla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=Adithya-Holla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 👨🏻‍💻 Leetcode Stats
 
 <img src="https://leetcard.jacoblin.cool/adithyavholla23?theme=nord&font=Fira%20Code" alt="LeetCode Stats" />
 
