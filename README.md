@@ -37,7 +37,7 @@ My goal is to become a versatile software engineer or AI specialist, contributin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,flask,tensorflow,pytorch,sklearn,mongodb,mysql,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,tensorflow,pytorch,sklearn,mongodb,mysql,git,github,docker&theme=dark" />
 
 </div>
 
